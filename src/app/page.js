@@ -93,7 +93,7 @@ export default function Home() {
 
 
         <Link
-          href="/demo1/"
+          href="/demo1"
           
       
      
